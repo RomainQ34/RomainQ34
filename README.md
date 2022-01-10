@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" width="400px" src="https://www.quiosk.fr/wp-content/uploads/2019/08/programmer.gif" align="right"/>
 
-## I'm a Full stack Developer based in Restinclières near to Montpellier ! <br/><img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
+## I'm a Full stack Developer based in Restinclières near Montpellier ! <br/><img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 - 🤝🏻 I’m looking for a new business and collaborate with other developper
 - 🥅 2022 Goals: Learning more technologies
